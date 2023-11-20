@@ -1,0 +1,9 @@
+{
+  "name": "John Doe",
+  "username": "@johndoe",
+  "bio": "Frontend Developer",
+  "followers": 1000,
+  "following": 500,
+  "posts": 120,
+  "avatar": "path/to/avatar.jpg"
+}
